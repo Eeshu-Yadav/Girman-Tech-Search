@@ -80,8 +80,8 @@ DATABASES = {
         'NAME': 'eeshu_db',
         'USER': 'eeshu_user',
         'PASSWORD': 'Eeshu123@',
-        'HOST': 'localhost',  # or the host of your PostgreSQL instance
-        'PORT': '5432',  # default PostgreSQL port
+        'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
 
